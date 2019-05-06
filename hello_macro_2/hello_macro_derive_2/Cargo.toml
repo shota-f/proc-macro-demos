@@ -1,0 +1,12 @@
+[package]
+name = "hello_macro_derive_2"
+version = "0.1.0"
+authors = ["shota.f <shota.fk8@gmail.com>"]
+edition = "2018"
+
+[lib]
+proc_macro = true
+
+[dependencies]
+quote = "0.6"
+syn = "0.15"

@@ -1,0 +1,9 @@
+[package]
+name = "chococakes"
+version = "0.1.0"
+authors = ["shota.f <shota.fk8@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+hello_macro_2 = { path = "../../hello_macro_2" }
+hello_macro_derive_2 = { path = "../../hello_macro_2/hello_macro_derive_2" }
