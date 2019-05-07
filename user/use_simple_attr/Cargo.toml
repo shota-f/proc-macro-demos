@@ -1,0 +1,8 @@
+[package]
+name = "use_simple_attr"
+version = "0.1.0"
+authors = ["shota.f <shota.fk8@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+simple_attr = { path = "../../simple_attr" }

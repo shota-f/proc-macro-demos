@@ -5,6 +5,8 @@ members = [
     "hello_macro/hello_macro_derive",
     "hello_macro_2",
     "hello_macro_2/hello_macro_derive_2",
+    "simple_attr",
     "user/pancakes",
     "user/chococakes",
+    "user/use_simple_attr",
 ]
